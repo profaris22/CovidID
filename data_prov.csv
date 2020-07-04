@@ -1,35 +1,35 @@
 no,provinsi,total_kasus,sembuh,meninggal,kasus_aktif
-1,Aceh,86,31,3,52
-2,Bali,1527,860,15,652
-3,Banten,1466,660,79,727
-4,Bangka Belitung,155,134,2,19
-5,Bengkulu,129,90,12,27
-6,DI Yogyakarta,314,264,8,42
-7,DKI Jakarta,11637,6880,632,4125
+1,Aceh,87,31,3,53
+2,Bali,1797,937,18,842
+3,Banten,1508,943,79,486
+4,Bangka Belitung,161,136,2,23
+5,Bengkulu,137,94,13,30
+6,DI Yogyakarta,325,275,8,42
+7,DKI Jakarta,12183,7377,643,4163
 8,Jambi,117,77,0,40
-9,Jawa Barat,3276,1622,177,1477
-10,Jawa Tengah,4006,1259,160,2587
-11,Jawa Timur,12321,4199,926,7196
-12,Kalimantan Barat,336,271,4,61
-13,Kalimantan Timur,525,400,7,118
-14,Kalimantan Tengah,931,384,55,492
-15,Kalimantan Selatan,3223,789,190,2244
-16,Kalimantan Utara,206,159,2,45
-17,Kepulauan Riau,302,245,16,41
-18,Nusa Tenggara Barat,1245,823,63,359
-19,Sumatera Selatan,2078,1042,93,943
-20,Sumatera Barat,742,607,31,104
-21,Sulawesi Utara,1129,201,82,846
-22,Sumatera Utara,1601,418,97,1086
-23,Sulawesi Tenggara,405,237,6,162
-24,Sulawesi Selatan,5214,1891,168,3155
-25,Sulawesi Tengah,189,157,5,27
-26,Lampung,191,151,12,28
-27,Riau,227,178,10,39
-28,Maluku Utara,875,112,31,732
-29,Maluku,749,282,16,451
-30,Papua Barat,242,165,4,73
-31,Papua,1846,870,15,961
-32,Sulawesi Barat,117,84,2,31
-33,Nusa Tenggara Timur,113,40,1,72
-34,Gorontalo,249,213,10,26
+9,Jawa Barat,3463,1685,177,1601
+10,Jawa Tengah,4403,1457,185,2761
+11,Jawa Timur,13461,4738,996,7727
+12,Kalimantan Barat,336,281,4,51
+13,Kalimantan Timur,557,432,8,117
+14,Kalimantan Tengah,1004,434,59,511
+15,Kalimantan Selatan,3520,910,198,2412
+16,Kalimantan Utara,206,174,2,30
+17,Kepulauan Riau,311,260,16,35
+18,Nusa Tenggara Barat,1311,865,64,382
+19,Sumatera Selatan,2205,1120,104,981
+20,Sumatera Barat,762,624,31,107
+21,Sulawesi Utara,1192,250,83,859
+22,Sumatera Utara,1767,459,103,1205
+23,Sulawesi Tenggara,479,261,7,211
+24,Sulawesi Selatan,5754,2023,175,3556
+25,Sulawesi Tengah,191,161,6,24
+26,Lampung,193,154,12,27
+27,Riau,233,205,10,18
+28,Maluku Utara,953,123,32,798
+29,Maluku,776,316,17,443
+30,Papua Barat,253,171,4,78
+31,Papua,1984,880,16,1088
+32,Sulawesi Barat,124,85,2,37
+33,Nusa Tenggara Timur,118,54,1,63
+34,Gorontalo,269,227,11,31
